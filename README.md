@@ -123,17 +123,17 @@ Una vez dentro veremos un amistoso saludo
 
 Tenemos una variedad de funcionalidades para probar:
 - Square:
-- ![image](https://github.com/Mateo0laya/Taller-3-Microframeworks-WEB/assets/89365336/764d202f-8242-466a-830d-cf1ff00a5c76)
+ ![image](https://github.com/Mateo0laya/Taller-3-Microframeworks-WEB/assets/89365336/764d202f-8242-466a-830d-cf1ff00a5c76)
 - Square root:
-- ![image](https://github.com/Mateo0laya/Taller-3-Microframeworks-WEB/assets/89365336/9652aa77-339e-4e85-b292-8a44073e2d2e)
+ ![image](https://github.com/Mateo0laya/Taller-3-Microframeworks-WEB/assets/89365336/9652aa77-339e-4e85-b292-8a44073e2d2e)
 - Cos:
-- ![image](https://github.com/Mateo0laya/Taller-3-Microframeworks-WEB/assets/89365336/9f9c73de-1fc3-43f8-acdc-f76a0a9766c2)
+ ![image](https://github.com/Mateo0laya/Taller-3-Microframeworks-WEB/assets/89365336/9f9c73de-1fc3-43f8-acdc-f76a0a9766c2)
 - Sin:
-- ![image](https://github.com/Mateo0laya/Taller-3-Microframeworks-WEB/assets/89365336/91d1f3f9-19b8-4f4f-9b48-e51c567e3559)
+ ![image](https://github.com/Mateo0laya/Taller-3-Microframeworks-WEB/assets/89365336/91d1f3f9-19b8-4f4f-9b48-e51c567e3559)
 - Addition:
-- ![image](https://github.com/Mateo0laya/Taller-3-Microframeworks-WEB/assets/89365336/2324bd88-3b52-4a53-a5e9-452522b5bd86)
+ ![image](https://github.com/Mateo0laya/Taller-3-Microframeworks-WEB/assets/89365336/2324bd88-3b52-4a53-a5e9-452522b5bd86)
 - Ideas:
-- ![image](https://github.com/Mateo0laya/Taller-3-Microframeworks-WEB/assets/89365336/f8b54ae0-3de7-4feb-8d14-9f38cd9cb658)
+ ![image](https://github.com/Mateo0laya/Taller-3-Microframeworks-WEB/assets/89365336/f8b54ae0-3de7-4feb-8d14-9f38cd9cb658)
 
 #### POST
 Para el POST debemos dirirgirnos a la dirección:
