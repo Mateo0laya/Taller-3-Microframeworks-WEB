@@ -144,6 +144,7 @@ Tenemos una variedad de funcionalidades para probar:
 #### POST
 Para el POST debemos dirirgirnos a la dirección:
 http://localhost:35000/ideas.html
+
 ![image](https://github.com/Mateo0laya/Taller-3-Microframeworks-WEB/assets/89365336/1f38682c-4144-4f9f-8688-c6eef15d643e)
 
 
